@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { Header } from '../../components/Header';
 import background2 from '../../assets/background-2.png';
 import ItemList from '../../components/ItemList';
-import icone1 from '../../assets/icone-1.png';
 
 import './styles.css';
 
