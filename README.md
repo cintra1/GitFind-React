@@ -4,6 +4,10 @@
 
 ![home-2](https://github.com/cintra1/GitFind-React/assets/101955322/e2085471-acac-412a-9df7-89c44c3132e1)
 
+## Como acessar
+
+Esse projeto está hospedado no Vercel, clique nesse link para ir para o site: git-find-react.vercel.app
+
 ## Como executar
 
 No diretório do projeto, você pode executar:
