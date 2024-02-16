@@ -57,7 +57,7 @@ function App() {
             <>
               <div className='perfil'>
               <a href={currentUser.html_url} className='link-repo'><img src={currentUser.avatar_url} 
-              className='profile' /></a>
+              className='profile' alt='imag'/></a>
               <div>
               <a href={currentUser.html_url} className='link-repo'><h3>{currentUser.name}</h3></a>
               <a href={currentUser.html_url} className='link-repo'><spam>@{currentUser.login}</spam></a>
