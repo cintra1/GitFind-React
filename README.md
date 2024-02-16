@@ -1,4 +1,4 @@
-# GitFind utilizando a biblioteca React
+# GitFind - React JS
 
 ![home-1](https://github.com/cintra1/GitFind-React/assets/101955322/858ecd08-ca6a-4496-a3a9-10597a8e3813)
 
