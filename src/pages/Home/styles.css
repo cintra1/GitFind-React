@@ -1,0 +1,109 @@
+.conteudo {
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.background {
+    height: 50vw;
+    position: absolute;
+    left: 0;
+}
+.info {
+    width: 55%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: #fff;
+}
+
+input {
+    border: 1px solid #999999;
+    border-radius: 22px;
+    min-width: 250px;
+    color: #fff;
+    width: 60%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+input:focus{
+    transition: 0.3s ease-in-out;
+    scale: 1.01;
+    background-color: #fff;
+}
+
+input:not(:placeholder-shown){
+    background-color: #fff;
+    color: #000;
+}
+
+button {
+    border: 1px solid #999999;
+    border-radius: 22px;
+    color: #999999;
+    margin-right: 12px;
+    background: #2D333B;
+    font-size: 18px;
+    padding: 10px 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.ex{
+    padding: 10px 15px !important;
+}
+
+button:hover {
+    background: #3D444D;
+    color: #fff;
+    scale: 1.05;
+}
+
+.perfil{
+    display: flex;
+    margin: 40px 0;
+}
+
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+    border: 2px solid #E5E5E5;
+    margin-right: 32px;
+}
+
+.perfil h3{
+    color: #999999;
+    font-size: 24px;
+    margin: 5px 0;
+}
+
+.perfil spam{
+    color: #999999;
+    display: block;
+    font-size: 15px;
+    margin: 0;
+}
+
+.perfil p{
+    color: #999999;
+    font-size: 16px;
+    margin: 20px 0 0 0;
+
+}
+
+.repositorio{
+    font-size: 32px;
+    color: #fff;
+    margin: 40px 0;
+    text-align: center;
+}
+
+.link-repo {
+    text-decoration: none; 
+}
