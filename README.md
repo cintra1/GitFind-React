@@ -6,7 +6,7 @@
 
 ## Como acessar
 
-Esse projeto está hospedado no Vercel, clique nesse link para ir para o site: [https://git-find-react.vercel.app/](Ir para o site)
+Esse projeto está hospedado no Vercel, clique nesse link para ir para o site: [https://git-find-react.vercel.app/](git-find-react.vercel.app)
 
 ## Como executar
 
